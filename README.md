@@ -1,3 +1,3 @@
 # LIMA-Exer02
 
-Site criado utilizando Tabelas e links.
+Site criado em sala de aula utilizando Tabelas e links.
